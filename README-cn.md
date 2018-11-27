@@ -1,3 +1,20 @@
+# 中文说明 
+
+[量子位-星际2新智能体开源：单机并行能力强，适应环境广，个人可训练](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247508830&idx=3&sn=f8f104842e195fc43a5b6a96ff46fa9e&chksm=e8d0142cdfa79d3af2402dc21e406a7ff693399be81f69ddedb22c7289f7e95ca5e888b35002&scene=0&xtrack=1#rd)
+
+# 传送门
+Reddit讨论贴：
+
+https://www.reddit.com/r/MachineLearning/comments/a0jm84/p_reaver_starcraft_ii_deep_reinforcement_learning/
+
+具体的安装说明，可移步GitHub：
+
+https://github.com/inoryy/reaver-pysc2
+
+此外，如果你的电脑配置了Google Colab，还可以在线使用Reaver，地址：
+
+https://colab.research.google.com/drive/1DvyCUdymqgjk85FB5DrTtAwTFbI494x7
+
 # Reaver: StarCraft II Deep Reinforcement Learning Agent
 
 [![MoveToBeacon](https://user-images.githubusercontent.com/195271/48730921-66b6fe00-ec44-11e8-9954-9f4891ff9672.gif)](https://youtu.be/gEyBzcPU5-w)
